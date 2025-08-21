@@ -7,26 +7,26 @@
 ## 🔗 Samples
 
 <table>
-  <thead>
-    <tr>
-      <th>Final Video Samples:</th>
-      <th>Paul Video Demo:</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <video src="https://github.com/user-attachments/assets/d1da203e-b9db-4f4f-8095-02e52fa16523" controls preload>
-            Your browser does not support the video tag.
-        </video>
-      </td>
-      <td>
-        
+<thead>
+<tr>
+<th>Final Video Samples:</th>
+<th>Paul Video Demo:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<video src="https://github.com/user-attachments/assets/d1da203e-b9db-4f4f-8095-02e52fa16523" controls preload>
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+
 [![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
-        
-      </td>
-    </tr>
-  </tbody>
+
+</td>
+</tr>
+</tbody>
 </table>
 
 ---
