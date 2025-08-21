@@ -21,7 +21,7 @@
         </video>
       </td>
       <td>
-        <iframe width="1328" height="747" src="https://www.youtube.com/embed/-M9EbCDr3LM" title="AvatarBuilder the best tool to Create Spectacular Videos In Any Language In Minutes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-M9EbCDr3LM" frameborder="0" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
