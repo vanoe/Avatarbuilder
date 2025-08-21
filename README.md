@@ -9,8 +9,8 @@
 <table>
   <thead>
     <tr>
-      <th>**Final Video Samples:**</th>
-      <th>**Paul Video Demo:**</th>
+      <th>Final Video Samples:</th>
+      <th>Paul Video Demo:</th>
     </tr>
   </thead>
   <tbody>
