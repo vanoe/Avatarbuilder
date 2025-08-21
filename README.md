@@ -7,6 +7,40 @@
 ## 🔗 Samples
 
 <table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img1.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img2.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img3.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img4.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img5.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img6.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <img src="./img/img7.png" alt="img" />
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
 <thead>
 <tr>
 <th>Final Video Samples:</th>
@@ -15,12 +49,12 @@
 </thead>
 <tbody>
 <tr>
-<td>
+<td width="50%">
 <video src="https://github.com/user-attachments/assets/d1da203e-b9db-4f4f-8095-02e52fa16523" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
 
