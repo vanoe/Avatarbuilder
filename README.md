@@ -6,8 +6,28 @@
 
 ## 🔗 Samples
 
-- **Final Video Samples:** [Google Drive](https://drive.google.com/drive/folders/1IOfUAN0A4AsEDplfZYhdPFTwi4NSNS_u?usp=sharing)
-- **Paul Video Demo:** [YouTube](https://www.youtube.com/watch?v=-M9EbCDr3LM&t=397s)
+<table>
+  <thead>
+    <tr>
+      <th>**Final Video Samples:**</th>
+      <th>**Paul Video Demo:**</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <video src="https://github.com/user-attachments/assets/d1da203e-b9db-4f4f-8095-02e52fa16523" controls preload>
+            Your browser does not support the video tag.
+        </video>
+      </td>
+      <td>
+        <video src="https://www.youtube.com/watch?v=-M9EbCDr3LM&t=397s" controls preload>
+            Your browser does not support the video tag.
+        </video>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
