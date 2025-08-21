@@ -2,6 +2,9 @@
 
 **AvatarBuilder** is an AI-powered platform that simplifies video creation for everyone. It allows users to build engaging videos using **fully customizable 3D avatars** paired with **smart AI-generated scenes**. No video editing or design skills required—just type your script, pick your avatar, and AvatarBuilder handles the rest.
 
+
+[![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
+
 ---
 
 ## 🔗 Samples
