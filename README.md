@@ -22,7 +22,7 @@
       </td>
       <td>
         
-        [![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
+[![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
         
       </td>
     </tr>
