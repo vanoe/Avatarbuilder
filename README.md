@@ -21,7 +21,7 @@
         </video>
       </td>
       <td>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/-M9EbCDr3LM" frameborder="0" allowfullscreen></iframe>
+        [![Watch the video](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)
       </td>
     </tr>
   </tbody>
