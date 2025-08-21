@@ -21,9 +21,7 @@
         </video>
       </td>
       <td>
-        <video src="https://www.youtube.com/watch?v=-M9EbCDr3LM&t=397s" controls preload>
-            Your browser does not support the video tag.
-        </video>
+        <iframe width="1328" height="747" src="https://www.youtube.com/embed/-M9EbCDr3LM" title="AvatarBuilder the best tool to Create Spectacular Videos In Any Language In Minutes!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </td>
     </tr>
   </tbody>
